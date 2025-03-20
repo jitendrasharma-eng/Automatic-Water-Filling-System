@@ -26,4 +26,4 @@ Prevents water overflow
 Uses ultrasonic and infrared sensors for accuracy
 Energy-efficient control with solenoid valve
 
-[Jitendra Sharma] (GitHub: @yourusername)
+[Jitendra Sharma] (GitHub: https://github.com/jitendrasharma-eng/Automatic-Water-Filling-System.git)
